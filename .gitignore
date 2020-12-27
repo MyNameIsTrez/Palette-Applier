@@ -1,0 +1,10 @@
+Input/*
+!Input/.empty
+Output/*
+!Output/.empty
+__pycache__
+build
+dist
+Palette Applier.spec
+.vscode
+settings.json

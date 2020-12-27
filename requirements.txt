@@ -1,0 +1,4 @@
+colormath
+PySimpleGUI
+pyinstaller
+Pillow
