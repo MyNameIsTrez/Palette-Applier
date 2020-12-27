@@ -16,4 +16,4 @@ def increment_progress():
 
 def set_max_progress():
 	global total_progress # TODO: See what happens when this line is removed.
-	total_progress = len([name for name in os.listdir("Input") if convert.is_image(name)])
+	total_progress = len([name for name in os.listdir("Input") if convert.is_input_image(name)])
