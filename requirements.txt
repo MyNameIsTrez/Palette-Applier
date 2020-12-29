@@ -1,4 +1,3 @@
-colormath
 PySimpleGUI
 pyinstaller
 Pillow
